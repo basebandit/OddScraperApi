@@ -128,4 +128,4 @@ npm run doc
 
 ## Architecture
 
-<img src="architecture.png" alt="Koa middleware framework for nodejs"/>
+<img src="Architecture.png" alt="Koa middleware framework for nodejs"/>
