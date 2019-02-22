@@ -1,0 +1,16 @@
+/*=========== Loader css ===========*/
+.spinwrap {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  background-color: $loader-overlay;
+}
+.spinner {
+  margin: 0 auto;
+  width: 40px;
+  height: 40px;
+  position: relative;
+  top: 50%;
+}

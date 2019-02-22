@@ -1,0 +1,27 @@
+/* ============== Lists ================ */
+.card-list {
+  padding: 0;
+  > div {
+    margin-bottom: 1.563rem; //30px;
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+  .progress-linear {
+    border-radius: 10px;
+  }
+}
+/* ======== Loader ====================*/
+.loader-overlay {
+  position: absolute;
+  background: rgba(255, 255, 255, 0.8);
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0px;
+  align-items: center;
+  overflow: hidden;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}

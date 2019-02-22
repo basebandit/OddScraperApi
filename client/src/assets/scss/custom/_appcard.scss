@@ -1,0 +1,45 @@
+.app-card {
+  background-color: $card-bg;
+  border: $card-border;
+  border-radius: $card-border-radius;
+  margin-bottom: $card-margin-bottom;
+  box-shadow: $card-shadow;
+  transition: all 0.4s ease-in-out 0s;
+  position: relative;
+  .app-card-title {
+    position: relative;
+    padding: $card-title-spacing;
+    border-bottom: $card-border;
+    h3,
+    .app-title {
+      font-size: $card-title-font-size;
+      color: $card-title-color;
+      text-transform: $card-title-transform;
+      font-weight: $card-title-weight;
+      margin: 0;
+    }
+  }
+  .app-contextual-link {
+    position: absolute;
+    right: 5px;
+    top: 15px;
+    .btn {
+      .icon {
+        color: $contextual-link-color;
+      }
+    }
+  }
+  .app-card-content {
+    padding: $card-spacing;
+  }
+  .app-full-content {
+    padding: 0;
+  }
+  .app-footer {
+    padding: $card-title-spacing;
+    border-top: $card-border;
+  }
+  &:hover {
+    box-shadow: $card-hover-shadow;
+  }
+}
