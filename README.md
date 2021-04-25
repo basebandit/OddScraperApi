@@ -107,7 +107,7 @@ mongorestore -d <database_name> <directory_backup>
 - [express.js](http://expressjs.com) framework
 - [mongoose](https://github.com/Automattic/mongoose) Object Document Modelling middleware
 - [mongodb](https://www.mongodb.com/) Flexible document storage software
-- app configuration by [config](https://github.com/basebandit/NewsWallet/tree/staging/config)
+- app configuration by [config](https://github.com/basebandit/NewsWallet/tree/master/config)
 - endpoints schema validation by [hapijs/joi](https://github.com/hapijs/joi)
 - all code is written ES5/ES6 supported features
 - [npm scripts](https://github.com/basebandit/NewsWallet/blob/staging/package.json#L9) for task automation
