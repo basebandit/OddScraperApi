@@ -63,7 +63,7 @@ Should output `v8.11.2`
 Just clone this repository, install dependencies and start application:
 
 ```bash
-git clone http://192.168.0.35:9999/evanson/OddScraperApi.git
+git clone https://github.com/basebandit/OddScraperApi.git
 cd OddScraperApi
 cd server
 ```
