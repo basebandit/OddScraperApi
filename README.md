@@ -128,4 +128,27 @@ npm run doc
 
 ## Architecture
 
-<img src="Architecture.png" alt="Koa middleware framework for nodejs"/>
+<img src="Architecture.png" alt="architecture for scrapehawk API"/>
+
+
+## Dashboard Screenshots
+
+### Landing Screen
+
+<img src="scrapehawk_landing.PNG" alt="scrapehawk landing page"/>
+
+### Register Screen
+
+<img src="scrapehawk_register.PNG" alt="scrapehawk register screen"/>
+
+### Login Screen
+
+<img src="scrapehawk_login.PNG" alt="scrapehawk login screen"/>
+
+### Scrapehawk Scraping Dashboard
+
+<img src="scrapehawk_scrapeboard.PNG" alt="scrapehawk scraping screen"/>
+
+### Scrapehawk Dashboard
+
+<img src="scrapeboard.PNG" alt="scrapehawk dashboard screen"/>
